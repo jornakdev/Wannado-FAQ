@@ -4,10 +4,10 @@
 2. Vyberte záložku sport
 3. Zmáčkněte tlačítko přidat
    1. Vyplňte název sportu
-   2. Kód sportu - {{book.code-help}}
+   2. Kód sportu - {{book.code}}
    3. Webovou adresu sportu ve formátu **http://**adresa.klubu.domeprvnihoradu - pokud nevyplníte bude použita adresa klubu
    4. Vyberte klub, který sport provozuje
-   5. [Vyberte kategorii sportu](/pridani-kategorie-sportu.md "Přejít na přidání nové kategorie") - {{book.sportCategory-help}}
+   5. [Vyberte kategorii sportu](/pridani-kategorie-sportu.md "Přejít na přidání nové kategorie") - {{book.sportCategory}}
    6. Vyberte festival na kterém klub bude se sportem.
 4. {{book.create}}
 
