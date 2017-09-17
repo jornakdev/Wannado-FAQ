@@ -9,7 +9,7 @@
    4. Vyberte klub, který sport provozuje
    5. [Vyberte kategorii sportu](/pridani-kategorie-sportu.md "Přejít na přidání nové kategorie") - {{book.sportCategory-help}}
    6. Vyberte festival na kterém klub bude se sportem.
-4. {{create}}
+4. {{book.create}}
 
 Tímto bude sport vidět v aplikaci a na webu u příslušného festivalu.
 
