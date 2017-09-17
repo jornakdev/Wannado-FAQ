@@ -11,5 +11,5 @@
    6. Vyberte festival na kterém klub bude se sportem.
 4. {{ book.create }}
 
-Tímto bude sport vidět v aplikaci a na webu u příslušného festivalu.
+Tímto bude sport a klub vidět v aplikaci a na webu u příslušného festivalu.
 
