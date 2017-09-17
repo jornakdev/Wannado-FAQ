@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-faq" ],
+    "plugins": [ "theme-faq" , "-fontsettings"],
     "language": "cs" ,
     "description": "Odpovědi na často kladené otázky administrace Wanando",
     "title": "Wannado FAQ",
