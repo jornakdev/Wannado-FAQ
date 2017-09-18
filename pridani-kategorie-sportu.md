@@ -1,4 +1,4 @@
-# Přidání nového kategorie sportu
+# Přidání nové kategorie sportu
 Kategorie sportu slouží pro třídění v aplikaci, kde sporty jsou roztříděné do kategorií.
 
 1. V hlavní nabídce vyberte Sporty a kluby
