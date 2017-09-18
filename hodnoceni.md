@@ -7,7 +7,7 @@ Hodnocení festivalu pomocí aplikace je vidět v této sekci.
 3. V tabulce jsou vidět všechny odpovědi
 4. V grafu je vidět jak si jednotlivé festivali vedli
 
-`Pokud graf pro festival není znamen to, že festival nemá žádne hodnocení od uživatelů.`
+`Pokud graf pro festival není, znamená to, že festival nemá žádne hodnocení od uživatelů.`
 
 ---
 
