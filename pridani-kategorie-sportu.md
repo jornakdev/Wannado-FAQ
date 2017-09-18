@@ -8,5 +8,5 @@ Kategorie sportu slouží pro třídění v aplikaci, kde sporty jsou roztříd�
    2. Vyplňte kód - _{{ book.code }}_
 4. {{book.create}}
 
-Kategorie sportu je tím vytvořena [můžete na ni odkazovat v kartě sportu.](/pridani-sportu.md "Přejít na Přidání sportu")
+Kategorie sportu je tím vytvořena, [můžete na ni odkazovat v kartě sportu.](/pridani-sportu.md "Přejít na Přidání sportu")
 

@@ -8,5 +8,6 @@
         "sportCategory": "Kategorie sportu slouží v aplikaci pro rozdělení sportů",
         "create": "Kliněte na vytvořit nebo vytvořit a přejít na nový.",
         "supportedUppload": "Podporované formáty jsou jpg, png a pdf."
+        "supportedVideoFormat" :"Podporované formáty videa jsou např. https://www.youtube.com/watch?v=GmtTDvNcXcU https://vimeo.com/143418951 https://www.facebook.com/atletikavitkovice/videos/578298472318121/ **nefunkční např: https://youtu.be**"
     }
 }

@@ -5,7 +5,7 @@
 3. Zmáčkněte tlačítko přidat
    1. Vyplňte název sportu
    2. Kód sportu _{{ book.code }}_
-   3. Webovou adresu sportu ve formátu **http://**adresa.klubu.domeprvnihoradu - pokud nevyplníte bude použita adresa klubu
+   3. Webovou adresu sportu ve formátu **http://**adresa.klubu.domeprvnihoradu - pokud nevyplníte bude použita adresa klubu _{{ book.supportedVideoFormat }}_
    4. [Vyberte klub, který sport provozuje](/pridani-noveho-klubu.md "Přejít na přidání klubu")
    5. [Vyberte kategorii sportu](/pridani-kategorie-sportu.md "Přejít na přidání nové kategorie")  _{{ book.sportCategory }}_
    6. Vyberte festival na kterém klub bude se sportem.
