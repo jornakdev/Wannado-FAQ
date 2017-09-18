@@ -1,4 +1,4 @@
-# Přidání obrázků a přloh do systému
+# Přidání obrázků a příloh do systému
 
 1. V hlavní nabídce vyberte Obrázky a přílohy
 2. Klikněte na tlačtko přidat a vyberte obrázky nebo přílohy, které chcete na webu použít. _{{  book.supportedUppload }}_
