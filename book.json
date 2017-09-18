@@ -6,6 +6,7 @@
      "variables": {
         "code": "Odkazy v rámci Wannado budou používat tento kód. Znaky použité pro kód jsou omezené jenom na znaky validní pro URL",
         "sportCategory": "Kategorie sportu slouží v aplikaci pro rozdělení sportů",
-        "create": "Kliněte na vytvořit nebo vytvořit a přejít na nový"
+        "create": "Kliněte na vytvořit nebo vytvořit a přejít na nový.",
+        "supportedUppload": "Podporované formáty jsou jpg, png a pdf."
     }
 }
