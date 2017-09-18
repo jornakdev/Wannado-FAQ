@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
 * [Vytvoření nové zprávy](/cs/news_create.md)
 * [Přidání nového klubu](pridani-noveho-klubu.md)
 * [Přidání kategorie sportu](pridani-kategorie-sportu.md)
@@ -13,4 +11,6 @@
 * [Vytvoření článku](vytvoreni-clanku.md)
 * [Upravení highlights na domovské stránce](upraveni-highlights-na-domovske-strance.md)
 * [Upravení stránek](upraveni-stranek.md)
+
+
 
