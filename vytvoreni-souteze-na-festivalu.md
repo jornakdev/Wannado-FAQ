@@ -14,7 +14,7 @@
    3. Klikněte vytvořit
 4. Vyberte záložku otázky
 5. Rozbalte menu Filtrovat festival
-   1. Vyberte váš vytvořený festival \(redundatní data budou filtrovány při dalších výběrech\)
+   1. Vyberte váš vytvořený festival \(redundantní data budou filtrovány při dalších výběrech\)
 6. Zmáčkněte tlačítko přidat
    1. Vyplňte název otázky neboli nadpis
    2. Vyplňte pořadí otázky
@@ -23,7 +23,7 @@
    5. Zopakujte kroky 4.I. až 4.IV. pro přidání všech požadovaných otázek \(Počet lidí na festivalu, oblíbený sport atd..\)
 7. Vyberte záložku odpovědi
 8. Rozbalte menu Filtrovat festival
-   1. Vyberte váš vytvořený festival \(redundatní data budou filtrovány při dalších výběrech\)
+   1. Vyberte váš vytvořený festival \(redundantní data budou filtrovány při dalších výběrech\)
 9. Zmáčkněte tlačítko přidat
    1. Vyplňte název odpovědi neboli nadpis \(např. Myslím si, že to je..., Meerfun atd..\)
    2. Vyplňte pořadí odpovědi mezi ostatními odpověďmi
