@@ -2,7 +2,7 @@
 
 ## Předpoklady
 
-1. [Musíte mít vytvořen festival](/vytvoreni-festivalu.md "Přejít na vytvoření festivalu")
+- [Musíte mít vytvořen festival](/vytvoreni-festivalu.md "Přejít na vytvoření festivalu")
 
 ## Postup
 
