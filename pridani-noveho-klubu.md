@@ -4,7 +4,7 @@
 2. Vyberte záložku klub
 3. Zmáčkněte tlačítko přidat
    1. Vyplňte název klubu
-   2. Kód klubu - odkazy v rámci Wannado budou používat tento kód
+   2. Kód klubu - {{ book.code }}
    3. Webovou adresu klubu ve formátu **http://**adresa.klubu.domenazeme
    4. Podporované  formáty videa jsou vimeo, facebook, youtube. Zadejte celou adresu k videu opusťte pole a validace převede odkaz do správného formátu nebo nahlásí chybu pokud odkaz není validní.
 4. {{book.create}}

@@ -4,7 +4,7 @@
     "description": "Odpovědi na často kladené otázky administrace Wanando",
     "title": "Wannado FAQ",
      "variables": {
-        "code": "odkazy v rámci Wannado budou používat tento kód",
+        "code": "Odkazy v rámci Wannado budou používat tento kód. Znaky použité pro kód jsou omezené jenom na znaky validní pro URL",
         "sportCategory": "Kategorie sportu slouží v aplikaci pro rozdělení sportů",
         "create": "Kliněte na vytvořit nebo vytvořit a přejít na nový"
     }
