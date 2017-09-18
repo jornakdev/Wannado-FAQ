@@ -13,4 +13,5 @@
 * [Upravení stránek](upraveni-stranek.md)
 * [Rozpracované](rozpracovane.md)
 * [Výsledky soutěže](vysledky-souteze.md)
+* [Hodnocení](hodnoceni.md)
 
