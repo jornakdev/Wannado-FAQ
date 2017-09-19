@@ -7,3 +7,5 @@
 
 _
 Zpracování obrázku má určité měsíční limity. Momentálně je limit **{{ book.imageUploadLimit }}** na měsíc, pokud ho překročíte, není možné už nahrávat další obrázky. Limit se dá libovolně měnit, ale mění se tím i cena za zpracování jednoho nahraného obrázku._
+
+Pokud by došlo k vyčerpání limitu, dejte vědet administrátorovi a limit obratem navýší.
