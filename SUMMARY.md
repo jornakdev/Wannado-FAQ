@@ -16,6 +16,7 @@
 
 * [Editor obsahu](editor-obsahu.md)
 * [Vytvoření článku](vytvoreni-clanku.md)
+* [Seznam komponent](seznam-komponent.md)
 * [Upravení stránek](upraveni-stranek.md)
 * [Upravení highlights na domovské stránce](upraveni-highlights-na-domovske-strance.md)
 * [Vytvoření festivalu](vytvoreni-festivalu.md)
