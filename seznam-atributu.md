@@ -42,393 +42,395 @@
 
 ## Jednotlivé atributy
 
-1,emptyPageFestival\_map\_image
+\#,kód,datový typ
 
-2,emptyPageFestival\_pravidla
+1,emptyPageFestival\_map\_image,image
 
-3,emptyPageFestival\_sleva\_image
+2,emptyPageFestival\_pravidla,file
 
-4,emptyPageFestival\_sleva\_text1
+3,emptyPageFestival\_sleva\_image,image
 
-5,emptyPageFestival\_sleva\_text2
+4,emptyPageFestival\_sleva\_text1,text
 
-6,emptyPageFestival\_sleva\_important
+5,emptyPageFestival\_sleva\_text2,text
 
-7,emptyPageFestival\_sleva\_buttonText
+6,emptyPageFestival\_sleva\_important,text
 
-8,carousel\_complex\_heroes\_image
+7,emptyPageFestival\_sleva\_buttonText,smalltext
 
-9,carousel\_complex\_heroes\_image\_mobile
+8,carousel\_complex\_heroes\_image,image
 
-10,carousel\_complex\_heroes\_hero\_text
+9,carousel\_complex\_heroes\_image\_mobile,imageTablet
 
-11,carousel\_complex\_heroes\_hero\_link
+10,carousel\_complex\_heroes\_hero\_text,smalltext
 
-12,carousel\_complex\_skate\_image
+11,carousel\_complex\_heroes\_hero\_link,linkInternal
 
-13,carousel\_complex\_skate\_image\_mobile
+12,carousel\_complex\_skate\_image,image
 
-14,carousel\_complex\_skate\_text
+13,carousel\_complex\_skate\_image\_mobile,imageTablet
 
-15,carousel\_complex\_skate\_freetext
+14,carousel\_complex\_skate\_text,text
 
-16,carousel\_complex\_skate\_link
+15,carousel\_complex\_skate\_freetext,text
 
-17,carousel\_complex\_football\_image
+16,carousel\_complex\_skate\_link,linkInternal
 
-18,carousel\_complex\_football\_image\_mobile
+17,carousel\_complex\_football\_image,image
 
-19,carousel\_complex\_football\_link
+18,carousel\_complex\_football\_image\_mobile,imageTablet
 
-20,carousel\_complex\_football\_title
+19,carousel\_complex\_football\_link,linkInternal
 
-21,carousel\_complex\_football\_text
+20,carousel\_complex\_football\_title,smalltext
 
-22,carousel\_complex\_football\_link\_text
+21,carousel\_complex\_football\_text,text
 
-23,carousel\_complex\_bike\_image
+22,carousel\_complex\_football\_link\_text,smalltext
 
-24,carousel\_complex\_bike\_image\_mobile
+23,carousel\_complex\_bike\_image,image
 
-25,carousel\_complex\_bike\_text
+24,carousel\_complex\_bike\_image\_mobile,imageTablet
 
-26,carousel\_complex\_bike\_link\_text
+25,carousel\_complex\_bike\_text,text
 
-27,carousel\_complex\_bike\_link
+26,carousel\_complex\_bike\_link\_text,smalltext
 
-28,highlight\_title
+27,carousel\_complex\_bike\_link,linkInternal
 
-29,highlight\_text
+28,highlight\_title,smalltext
 
-30,highlight\_image
+29,highlight\_text,text
 
-31,highlight\_link
+30,highlight\_image,image
 
-32,bg\_text\_right\_image
+31,highlight\_link,linkInternal
 
-33,bg\_text\_right\_imageMobile
+32,bg\_text\_right\_image,image
 
-34,bg\_text\_right\_title
+33,bg\_text\_right\_imageMobile,imageTablet
 
-35,bg\_text\_right\_item\_title
+34,bg\_text\_right\_title,text
 
-36,bg\_text\_right\_item\_text
+35,bg\_text\_right\_item\_title,smalltext
 
-37,partneri\_title
+36,bg\_text\_right\_item\_text,text
 
-38,partneri\_row\_group\_title
+37,partneri\_title,smalltext
 
-39,partneri\_row\_group\_image\_image
+38,partneri\_row\_group\_title,smalltext
 
-40,partneri\_row\_group\_image\_link
+39,partneri\_row\_group\_image\_image,image
 
-41,zastita\_title
+40,partneri\_row\_group\_image\_link,link
 
-42,osoba\_text
+41,zastita\_title,smalltext
 
-43,osoba\_title
+42,osoba\_text,text
 
-44,osoba\_link
+43,osoba\_title,smalltext
 
-45,menu\_logo\_image
+44,osoba\_link,image
 
-46,menu\_logo\_imageInverted
+45,menu\_logo\_image,icon
 
-47,menu\_logo\_link
+46,menu\_logo\_imageInverted,icon
 
-48,menu\_control\_text
+47,menu\_logo\_link,linkInternal
 
-49,menu\_control\_mobile\_icon
+48,menu\_control\_text,smalltext
 
-50,menu\_control\_link
+49,menu\_control\_mobile\_icon,imageSvg
 
-51,menu\_control\_linkRelative
+50,menu\_control\_link,linkInternal
 
-52,footer\_copyRight
+51,menu\_control\_linkRelative,linkInternal
 
-53,footer\_extra\_image
+52,footer\_copyRight,smalltext
 
-54,footer\_extra\_text
+53,footer\_extra\_image,image
 
-55,footer\_socialImageHorizontal\_item\_link
+54,footer\_extra\_text,text
 
-56,footer\_socialImageHorizontal\_item\_image
+55,footer\_socialImageHorizontal\_item\_link,link
 
-57,footer\_select\_item\_link
+56,footer\_socialImageHorizontal\_item\_image,icon
 
-58,footer\_select\_item\_text
+57,footer\_select\_item\_link,linkInternal
 
-59,footer\_select\_item\_image
+58,footer\_select\_item\_text,smalltext
 
-60,footer\_column\_link\_link
+59,footer\_select\_item\_image,imageSvg
 
-61,footer\_column\_link\_text
+60,footer\_column\_link\_link,linkInternal
 
-62,person\_photoSmall
+61,footer\_column\_link\_text,smalltext
 
-63,person\_photoMobile
+62,person\_photoSmall,image
 
-64,person\_photoNews
+63,person\_photoMobile,imageTablet
 
-65,person\_quote
+64,person\_photoNews,image
 
-66,person\_text
+65,person\_quote,text
 
-67,person\_name
+66,person\_text,text
 
-68,person\_smalldesc
+67,person\_name,smalltext
 
-69,festival\_baseInfo\_title
+68,person\_smalldesc,smalltext
 
-70,festival\_baseInfo\_icon
+69,festival\_baseInfo\_title,smalltext
 
-71,festival\_baseInfo\_date
+70,festival\_baseInfo\_icon,image
 
-72,festival\_baseInfo\_textPart
+71,festival\_baseInfo\_date,date
 
-73,festival\_baseInfo\_link
+72,festival\_baseInfo\_textPart,text
 
-74,festival\_baseInfo\_linkText
+73,festival\_baseInfo\_link,link
 
-75,festival\_baseInfo\_buttonText
+74,festival\_baseInfo\_linkText,smalltext
 
-76,festival\_baseInfo\_buttonLink
+75,festival\_baseInfo\_buttonText,smalltext
 
-77,festival\_textCommon\_text
+76,festival\_baseInfo\_buttonLink,linkInternal
 
-78,festival\_navigation\_text
+77,festival\_textCommon\_text,text
 
-79,festival\_navigation\_scrollTo
+78,festival\_navigation\_text,smalltext
 
-80,festival\_sportClubs\_title
+79,festival\_navigation\_scrollTo,smalltext
 
-81,festival\_sportClubs\_link
+80,festival\_sportClubs\_title,smalltext
 
-82,festival\_sportClubs\_linkText
+81,festival\_sportClubs\_link,link
 
-83,festival\_sportClubs\_buttonText
+82,festival\_sportClubs\_linkText,smalltext
 
-84,festival\_sportClubs\_buttonTextBack
+83,festival\_sportClubs\_buttonText,smalltext
 
-85,festival\_sportClubs\_buttonLink
+84,festival\_sportClubs\_buttonTextBack,smalltext
 
-86,club\_title
+85,festival\_sportClubs\_buttonLink,linkInternal
 
-87,club\_link
+86,club\_title,smalltext
 
-88,sport\_title
+87,club\_link,link
 
-89,program\_title
+88,sport\_title,smalltext
 
-90,program\_start
+89,program\_title,smalltext
 
-91,program\_end
+90,program\_start,smalltext
 
-92,program\_text
+91,program\_end,smalltext
 
-93,program\_detail
+92,program\_text,text
 
-94,photos\_persons\_title
+93,program\_detail,file
 
-95,map\_address
+94,photos\_persons\_title,smalltext
 
-96,map\_detailLink
+95,map\_address,smalltext
 
-97,map\_buttonText
+96,map\_detailLink,file
 
-98,carousel\_moving\_backText
+97,map\_buttonText,smalltext
 
-99,carousel\_moving\_backLink
+98,carousel\_moving\_backText,smalltext
 
-100,carousel\_moving\_item\_halftext
+99,carousel\_moving\_backLink,linkInternal
 
-101,carousel\_moving\_item\_halfimage
+100,carousel\_moving\_item\_halftext,text
 
-102,carousel\_moving\_item\_image
+101,carousel\_moving\_item\_halfimage,image
 
-103,carousel\_moving\_item\_imageMobile
+102,carousel\_moving\_item\_image,image
 
-104,carousel\_moving\_item\_imageForeground
+103,carousel\_moving\_item\_imageMobile,imageTablet
 
-105,carousel\_moving\_item\_imageForegroundMobile
+104,carousel\_moving\_item\_imageForeground,image
 
-106,carousel\_moving\_item\_title
+105,carousel\_moving\_item\_imageForegroundMobile,imageTablet
 
-107,carousel\_moving\_item\_text
+106,carousel\_moving\_item\_title,smalltext
 
-108,carousel\_moving\_item\_bottomtitle
+107,carousel\_moving\_item\_text,text
 
-109,carousel\_moving\_item\_bottomtext
+108,carousel\_moving\_item\_bottomtitle,smalltext
 
-110,carousel\_moving\_item\_buttonlink
+109,carousel\_moving\_item\_bottomtext,text
 
-111,carousel\_moving\_item\_buttontext
+110,carousel\_moving\_item\_buttonlink,linkInternal
 
-112,carousel\_moving\_item\_linktext
+111,carousel\_moving\_item\_buttontext,smalltext
 
-113,carousel\_moving\_item\_linklink
+112,carousel\_moving\_item\_linktext,smalltext
 
-114,carousel\_moving\_item\_linktextMobile
+113,carousel\_moving\_item\_linklink,linkInternal
 
-115,carousel\_moving\_item\_linklinkMobile
+114,carousel\_moving\_item\_linktextMobile,smalltext
 
-116,media\_date
+115,carousel\_moving\_item\_linklinkMobile,linkInternal
 
-117,media\_video
+116,media\_date,date
 
-118,media\_link
+117,media\_video,video
 
-119,media\_linkDirect
+118,media\_link,link
 
-120,media\_imageMobile
+119,media\_linkDirect,link
 
-121,media\_title
+120,media\_imageMobile,imageTablet
 
-122,media\_title\_short
+121,media\_title,smalltext
 
-123,media\_column\_text
+122,media\_title\_short,smalltext
 
-124,button\_text
+123,media\_column\_text,text
 
-125,button\_link
+124,button\_text,smalltext
 
-126,button\_link\_external
+125,button\_link,linkInternal
 
-127,button\_color
+126,button\_link\_external,link
 
-128,text\_four\_columns\_title
+127,button\_color,color
 
-129,text\_four\_columns\_block\_title
+128,text\_four\_columns\_title,smalltext
 
-130,text\_four\_columns\_block\_item\_text
+129,text\_four\_columns\_block\_title,smalltext
 
-131,text\_four\_columns\_block\_item\_isHighlighted
+130,text\_four\_columns\_block\_item\_text,text
 
-132,text\_four\_columns\_block\_item\_isFaded
+131,text\_four\_columns\_block\_item\_isHighlighted,boolean
 
-133,image\_text\_bg
+132,text\_four\_columns\_block\_item\_isFaded,boolean
 
-134,image\_text\_foreground
+133,image\_text\_bg,imageResponsive
 
-135,image\_text\_hasTopGradient
+134,image\_text\_foreground,image
 
-136,image\_text\_text
+135,image\_text\_hasTopGradient,number
 
-137,image\_text\_title
+136,image\_text\_text,text
 
-138,bg\_image\_text\_text
+137,image\_text\_title,smalltext
 
-139,bg\_image\_text\_link
+138,bg\_image\_text\_text,text
 
-140,bg\_image\_text\_image
+139,bg\_image\_text\_link,linkInternal
 
-141,bg\_image\_text\_imageMobile
+140,bg\_image\_text\_image,image
 
-142,text\_left\_list\_text
+141,bg\_image\_text\_imageMobile,imageTablet
 
-143,text\_left\_list\_textExtended
+142,text\_left\_list\_text,text
 
-144,text\_left\_list\_title
+143,text\_left\_list\_textExtended,text
 
-145,text\_left\_list\_link
+144,text\_left\_list\_title,smalltext
 
-146,text\_left\_list\_linkText
+145,text\_left\_list\_link,linkInternal
 
-147,text\_left\_list\_country\_image
+146,text\_left\_list\_linkText,smalltext
 
-148,text\_two\_columns\_title
+147,text\_left\_list\_country\_image,smalltext
 
-149,text\_two\_columns\_text
+148,text\_two\_columns\_title,smalltext
 
-150,text\_two\_columns\_buttonlink
+149,text\_two\_columns\_text,text
 
-151,text\_two\_columns\_buttontext
+150,text\_two\_columns\_buttonlink,linkInternal
 
-152,text\_two\_columns\_linktext
+151,text\_two\_columns\_buttontext,smalltext
 
-153,text\_two\_columns\_linklink
+152,text\_two\_columns\_linktext,smalltext
 
-154,text\_three\_columns\_bottomText
+153,text\_two\_columns\_linklink,image
 
-155,text\_three\_columns\_column\_title
+154,text\_three\_columns\_bottomText,text
 
-156,text\_three\_columns\_column\_text
+155,text\_three\_columns\_column\_title,smalltext
 
-157,text\_three\_columns\_column\_line\_text
+156,text\_three\_columns\_column\_text,text
 
-158,text\_three\_columns\_column\_line\_link
+157,text\_three\_columns\_column\_line\_text,text
 
-159,article\_title
+158,text\_three\_columns\_column\_line\_link,image
 
-160,article\_title\_short
+159,article\_title,smalltext
 
-161,article\_date
+160,article\_title\_short,smalltext
 
-162,article\_imageMobile
+161,article\_date,date
 
-163,article\_perex\_text
+162,article\_imageMobile,imageTablet
 
-164,article\_text\_text
+163,article\_perex\_text,text
 
-165,article\_imageFull\_image
+164,article\_text\_text,text
 
-166,article\_imageFull\_desc
+165,article\_imageFull\_image,image
 
-167,article\_imageMiddle\_image
+166,article\_imageFull\_desc,smalltext
 
-168,article\_imageContent\_item\_image
+167,article\_imageMiddle\_image,image
 
-169,news\_gallery\_title
+168,article\_imageContent\_item\_image,image
 
-170,news\_gallery\_imageMobile
+169,news\_gallery\_title,smalltext
 
-171,news\_gallery\_place
+170,news\_gallery\_imageMobile,imageTablet
 
-172,news\_gallery\_date
+171,news\_gallery\_place,smalltext
 
-173,news\_gallery\_column\_text
+172,news\_gallery\_date,date
 
-174,news\_gallery\_photo\_image
+173,news\_gallery\_column\_text,text
 
-175,columns\_title
+174,news\_gallery\_photo\_image,image
 
-176,columns\_text
+175,columns\_title,smalltext
 
-177,columns\_column\_text
+176,columns\_text,text
 
-178,textPhoto\_title
+177,columns\_column\_text,text
 
-179,textPhoto\_text
+178,textPhoto\_title,smalltext
 
-180,textPhoto\_image
+179,textPhoto\_text,text
 
-181,app\_title
+180,textPhoto\_image,imageResponsiveDetailed
 
-182,app\_text
+181,app\_title,smalltext
 
-183,app\_link
+182,app\_text,text
 
-184,app\_icon
+183,app\_link,link
 
-185,app\_bgimage
+184,app\_icon,image
 
-186,contact\_country\_title
+185,app\_bgimage,image
 
-187,contact\_country\_item\_text
+186,contact\_country\_title,smalltext
 
-188,TwoImagesItem\_image
+187,contact\_country\_item\_text,text
 
-189,TwoImagesItem\_link
+188,TwoImagesItem\_image,image
 
-190,TwoImagesItem\_icon
+189,TwoImagesItem\_link,linkInternal
 
-191,InlineGallery\_image
+190,TwoImagesItem\_icon,image
 
-192,InlineGalleryItem\_image\_tb
+191,InlineGallery\_image,image
 
-193,IconAndText\_icon
+192,InlineGalleryItem\_image\_tb,image
 
-194,IconAndText\_text
+193,IconAndText\_icon,image
+
+194,IconAndText\_text,text
 
 
 
