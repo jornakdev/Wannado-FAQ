@@ -10,7 +10,9 @@
         "supportedUppload": "Podporované formáty jsou jpg, png a pdf.",
         "supportedVideoFormat": "Podporované formáty videa jsou např. https://www.youtube.com/watch?v=GmtTDvNcXcU https://vimeo.com/143418951 https://www.facebook.com/atletikavitkovice/videos/578298472318121/ **nefunkční např: https://youtu.be**",
         "issue63": "[Přejít na issue](https://github.com/jornak/wannado-client/issues/63)",
-        "imageUploadLimit" : "500"
+        "imageUploadLimit" : "500",
+        "description": "Krátký popis asi 250 znaků.",
+        "title": "Nadpis viditelný v záhlavý stránky."
 
         
     }
