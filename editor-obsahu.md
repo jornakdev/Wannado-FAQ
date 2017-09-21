@@ -10,7 +10,7 @@ Každá stránka je rozdělene do komponent, které se dají různě kombinovat.
 
 ### Přidávání nových komponent
 
-Komponetu přidáte zmáčnuktím tlačítka Vytvořit a vybráním [komponenty kterou chcete přidat](/seznam-komponent.md "Přejít na seznam komponent"). Komponentu přidávate jako potomka té kterou máte momentálně aktivní. 
+Komponetu přidáte zmáčnuktím tlačítka Vytvořit a vybráním [komponenty kterou chcete přidat](/seznam-komponent.md "Přejít na seznam komponent"). Komponentu přidávate jako potomka té kterou máte momentálně aktivní.
 
 #### Akce komponenty Přidat/Vytvořit:
 
@@ -22,15 +22,29 @@ Komponetu přidáte zmáčnuktím tlačítka Vytvořit a vybráním [komponenty 
 
 ### Atributy komponenty
 
-Komponenty mají atributy, které upravují její chování a vzhled.
+Komponenty mají atributy, které upravují její chování a vzhled. [Přejít na seznam atributů.](/seznam-atributu.md)
 
 ![](/images/atributy.png)
 
 ### Pořadí komponent
 
-Můžete libovolně měnit pořadí potomků komponenty. Někteří potomci jsou řazení nehledě na pořadí např. novinky jsou řazeny chronologicky
+Můžete libovolně měnit pořadí potomků komponenty. Někteří potomci jsou řazení nehledě na pořadí např. novinky jsou řazeny chronologicky.
 
+#### Pořadí upravíte následovně:
 
+![](/images/docImages/dnd0.png)
+
+##### Původní stav:
+
+![](/images/docImages/dnd1.png)
+
+##### Přesunutí v administraci:
+
+![](/images/docImages/dnd2.png)
+
+##### Výsledný stav:
+
+![](/images/docImages/dnd3.png)
 
 ### Připojování a odpojování komponent
 
@@ -51,6 +65,4 @@ Stránku si můžete kdykoliv prohlédnout tlačítkem Náhled
 Editace stránky upravuje změny přímo na webu, všechny změny jsou publikovány přes noc, nehledě na to zda byli publikovány nebo ne. Při zmáčnutím tlačítka publikovat změny budou uživatelem viditelné hned.
 
 Průvodce novou stránkou funguje odlyšně, změny nejsou vidět **nikdy** dokud nepřejde do třetího kroku a můžete se k nim libovolně vrace skrze [volbu menu rozpracované stránky](/rozpracovane.md).
-
-
 
