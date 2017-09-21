@@ -1,6 +1,4 @@
-# Seznam komponent 
-
-\#,code
+# Seznam komponent
 
 1,emptyPage
 
@@ -76,7 +74,7 @@
 
 37,festival\_sportClubs\_item - jeden sport, club festivalu \(needitovatelné v editoru\)
 
-38,club 
+38,club
 
 39,sport
 
