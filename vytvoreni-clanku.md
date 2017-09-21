@@ -7,7 +7,7 @@
    3. Popis _{{ book.description }}_
 
 3. Zmáčkněte další krok
-4. Můžete odebírat a přidívat libovolné komponenty následující je pouze příklad. Pro nápovědu k editoru obsahu
+4. Můžete odebírat a přidívat libovolné komponenty následující je pouze příklad. [Nápovědu k editoru obsahu](/editor-obsahu.md)
    1. Vyplňte název klubu
    2. Vyplňte kód klubu _{{ book.code }}_
    3. Vyplňte webovou adresu klubu ve formátu **http://**adresa.klubu.domenazeme
