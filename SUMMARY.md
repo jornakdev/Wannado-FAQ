@@ -14,4 +14,5 @@
 * [Rozpracované](rozpracovane.md)
 * [Výsledky soutěže](vysledky-souteze.md)
 * [Hodnocení](hodnoceni.md)
+* [Vytvoření galerie](vytvoreni-galerie.md)
 
