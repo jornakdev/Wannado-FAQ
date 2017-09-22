@@ -11,7 +11,7 @@
    1. Vybrete komponentu typu new_gallery_photos
    2. Klikněte na vytvořit
    3. Vybrete komponentu typu new_gallery_photo
-   4. Vyberte obrázek pro atribut news_gallery_photo_image. Nahrátní obrázků [zde](/pridani-obrazku-a-priloh-do-systemu.md).
+   4. Vyberte obrázek pro atribut news_gallery_photo_image. Nahrání obrázků [zde](/pridani-obrazku-a-priloh-do-systemu.md).
    6. Jděte zpět do komponenty new_gallery_photos
    7. Krok 4.II až 4.V. zopakujte minimálně 5x maximálně však 20x více obrázku pro jednu galerii nedoporučujeme, vzhledem k výkonu mobilních zařízení.    
 5. Klikněte na tlačítko publikovat
