@@ -6,6 +6,22 @@ Každá stránka je rozdělene do komponent, které se dají různě kombinovat.
 
 ![](/images/component_nesting.png)
 
+### Komponenta
+
+A. - unikátn kód komponenty používaný v odkazech a pro orientaci mezi částmi obsahu
+
+B. - typ komponenty
+
+C. - pole pro editaci kódu komponenty
+
+![](/images/docImages/componentSign.png)
+
+### Atributy komponenty
+
+Komponenty mají atributy, které upravují její chování a vzhled. [Přejít na seznam atributů.](/seznam-atributu.md)
+
+![](/images/atributy.png)
+
 ## Úpravy
 
 ### Přidávání nových komponent
@@ -20,11 +36,7 @@ Komponetu přidáte zmáčnuktím tlačítka Vytvořit a vybráním [komponenty 
 
 ![](/images/activeComponent.png)
 
-### Atributy komponenty
-
-Komponenty mají atributy, které upravují její chování a vzhled. [Přejít na seznam atributů.](/seznam-atributu.md)
-
-![](/images/atributy.png)
+### 
 
 ### Pořadí komponent
 

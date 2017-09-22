@@ -18,8 +18,8 @@
 * [Seznam atributů](seznam-atributu.md)
 * [Vytvoření článku](vytvoreni-clanku.md)
 * [Seznam komponent](seznam-komponent.md)
-* [Upravení stránek](upraveni-stranek.md)
 * [Upravení highlights na domovské stránce](upraveni-highlights-na-domovske-strance.md)
 * [Vytvoření festivalu](vytvoreni-festivalu.md)
 * [Vytvoření galerie](vytvoreni-galerie.md)
+* Nastavení aplikace
 
