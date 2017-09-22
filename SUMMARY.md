@@ -1,6 +1,6 @@
 # Summary
 
-## Basics
+## Základní možnosti
 
 * [Introduction](README.md)
 * [Přidání nového klubu](pridani-noveho-klubu.md)
