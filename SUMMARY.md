@@ -21,5 +21,5 @@
 * [Upravení highlights na domovské stránce](upraveni-highlights-na-domovske-strance.md)
 * [Vytvoření festivalu](vytvoreni-festivalu.md)
 * [Vytvoření galerie](vytvoreni-galerie.md)
-* Nastavení aplikace
+* [Nastavení aplikace](nastaveni-aplikace.md)
 
