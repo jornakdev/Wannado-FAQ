@@ -38,6 +38,9 @@
       1. Vyplňte map_address adresou kde bude konán festival. Adresa musí být dohledatelná na google maps.
       2. Vyberte přílohu pro map_detailLink což je detailní mapa festivalu
    8. Nastavení aplikace naleznete [zde](/nastaveni-aplikace.md)
+5. Klikněte na tlačítko PUBLIKOVAT
+6. Zkontrolujte si publikaci tlačítkem Přejít na Stránku
+   
          
          
 TIP: Můžete se podívat jak jsou nastaven jiné festivaly.       
