@@ -1,4 +1,4 @@
-# Vytvoření článku
+# Vytvoření galerie
 
 1. V hlavní nabídce vyberte Nová stránka a volbu Fotogalerie
 2. Zadejte
