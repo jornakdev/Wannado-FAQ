@@ -1,4 +1,4 @@
-# Přidání článku do seznamu novinek{{}}
+# Přidání článku do seznamu novinek
 
 1. V hlavní nabídce v sekci Editace vyberte Novinky
 2. Vyberte podřízenou komponentu news\_cs\_wrapper typu news
