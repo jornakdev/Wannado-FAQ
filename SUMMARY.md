@@ -22,4 +22,5 @@
 * [Vytvoření festivalu](vytvoreni-festivalu.md)
 * [Vytvoření galerie](vytvoreni-galerie.md)
 * [Nastavení aplikace](nastaveni-aplikace.md)
+* [Přidání článku seznam novinek](pridani-clanku-seznam-novinek.md)
 
