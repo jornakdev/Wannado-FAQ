@@ -1,4 +1,4 @@
-# Nastavení aplikace{{}}
+# Nastavení aplikace
 
 ## Vytvoření festivalu
 
