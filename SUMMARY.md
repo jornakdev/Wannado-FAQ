@@ -11,6 +11,7 @@
 * [Rozpracované](rozpracovane.md)
 * [Výsledky soutěže](vysledky-souteze.md)
 * [Hodnocení](hodnoceni.md)
+* [Hlášení chyb a požadavků na úpravy nebo zlepšení](hlaseni-chyb-a-pozadavku-na-upravy-nebo-zlepseni.md)
 
 ## Editor
 
