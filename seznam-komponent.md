@@ -1,194 +1,194 @@
 # Seznam komponent
 
-1,emptyPage
+1,emptyPage,Základ pro webovou stránku.
 
-2,emptyPageFestival
+2,emptyPageFestival,Základ pro webovou stránku festivalu.
 
-3,festivalApp
+3,festivalApp,Nastavení aplikace.
 
-4,emptyPageFestival\_sleva
+4,emptyPageFestival\_sleva,Jednotlivé slevy v aplikaci
 
-5,carousel\_complex
+5,carousel\_complex,Kolotoč se čtyřmi zvýrazňovači obsahu.
 
-6,carousel\_complex\_carousel
+6,carousel\_complex\_carousel,Kolotoč
 
-7,carousel\_complex\_heroes
+7,carousel\_complex\_heroes,Typ obsahu v kolotoči se čtyřmi hrdiny.
 
-8,carousel\_complex\_heroes\_hero
+8,carousel\_complex\_heroes\_hero,Název jednoho z hrdinů.
 
-9,carousel\_complex\_skate
+9,carousel\_complex\_skate,Typ část kolotoče s videem
 
-10,carousel\_complex\_football
+10,carousel\_complex\_football,Čás kolotoče
 
-11,carousel\_complex\_bike
+11,carousel\_complex\_bike,Typ části kolotoče
 
-12,highlights - obsahuje jednotlivé highlights v hlavním kolotoči
+12,highlights,Zvýrazněný obsah
 
-13,highlight - reprezentuje jeden highlight
+13,highlight,Jedna část zvýrazněného obsahu
 
-14,bg\_text\_right
+14,bg\_text\_right,Obrázek vlevo a text vpravo
 
-15,bg\_text\_right\_item
+15,bg\_text\_right\_item,Jedna z částí obsahu
 
-16,partneri
+16,partneri,Sekce partneři
 
-17,partneri\_row
+17,partneri\_row,Řádek partnerů
 
-18,partneri\_row\_group
+18,partneri\_row\_group,Skupina partnerů
 
-19,partneri\_row\_group\_image
+19,partneri\_row\_group\_image,Partner
 
-20,zastita
+20,zastita,Záštita
 
-21,osoba
+21,osoba,Osoba
 
-22,menuInverted - hlavní menu, světlé
+22,menuInverted,Světlé menu
 
-23,menu - hlavní menu, tmavé
+23,menu,Tmavé menu
 
-24,menu\_control - tlačítko v menu
+24,menu\_control,Jedna kontrolka menu
 
-25,footer - celý podpis
+25,footer,Celý podpis
 
-26,footer\_socialImageHorizontal - social tlačítka v podpisu
+26,footer\_socialImageHorizontal,Odkazy na social media
 
-27,footer\_socialImageHorizontal\_item - jedno social tlačtko v podpisu
+27,footer\_socialImageHorizontal\_item,Odkaz na social media
 
-28,footer\_select - výběr jazyka v podpis
+28,footer\_select,Výběr země
 
-29,footer\_select\_item - jedna země ve výběru zemí
+29,footer\_select\_item,Země
 
-30,footer\_column - jeden sloupek v podisu
+30,footer\_column,Sloupec v podpisu
 
-31,footer\_column\_link - hlavní odkaz sloupku
+31,footer\_column\_link,Odkaz
 
-32,person - komponenta osoby
+32,person,Osoba
 
-33,festival\_baseInfo - základní informace o festivalu, obecně se vyskytuje jako první komponenta u detailu festivalu po menu
+33,bg\_image\_text,Velký obrázek s textem
 
-34,festival\_textCommon - text, který se rozbalí po tom co uživatel klikne na číst dál
+34,text\_left\_list,Text v seznamu
 
-35,festival\_navigation - část rychlé navigace v detailu festivalu \(scroll k sekci sportů/navigace atd..\)
+35,text\_left\_list\_country,Seznam země
 
-36,festival\_sportClubs - sportu a kluby festivalu
+36,text\_left\_list\_item,Festival země
 
-37,festival\_sportClubs\_item - jeden sport, club festivalu \(needitovatelné v editoru\)
+37,text\_two\_columns,Text ve dvou sloupcích
 
-38,club
+38,text\_three\_columns,Text ve třech sloupcích
 
-39,sport
+39,text\_three\_columns\_column,Jeden sloupec
 
-40,program
+40,text\_three\_columns\_column\_line,Jeden řádek sloupce
 
-41,photos\_persons
+41,article,Článek
 
-42,photos\_persons\_item
+42,article\_perex,Perex
 
-43,map
+43,article\_text,Text
 
-44,carousel\_moving\_top
+44,article\_imageFull,Jeden velký obrázek
 
-45,carousel\_moving
+45,article\_imageMiddle,Střdní obrázek ve prostřed
 
-46,carousel\_moving\_item
+46,article\_imageContent,Tři obrázky v řádku
 
-47,bg\_image\_text
+47,article\_imageContent\_item,Obrázek
 
-48,text\_left\_list
+48,news\_gallery,Galerie
 
-49,text\_left\_list\_country
+49,news\_gallery\_photos,Fotky
 
-50,text\_left\_list\_item
+50,news\_gallery\_photo,Fotka
 
-51,text\_two\_columns
+51,new\_video,Video
 
-52,text\_three\_columns
+52,series,Série
 
-53,text\_three\_columns\_column
+53,columns,Sloupce
 
-54,text\_three\_columns\_column\_line
+54,columns\_column,Sloupec
 
-55,article
+55,textPhoto,Fotka
 
-56,article\_perex
+56,app,Aplikace
 
-57,article\_text
+57,storeCarousel,Kolotoč pro obchod
 
-58,article\_imageFull
+58,contact,Kontakt
 
-59,article\_imageMiddle
+59,contact\_country,Země
 
-60,article\_imageContent
+60,contact\_country\_item,Jeden kontakt
 
-61,article\_imageContent\_item
+61,newsDetail,Novinka detail
 
-62,media
+62,TwoImages,Dva obrázky přes celou šířku
 
-63,buttonBar
+63,TwoImagesItem,Obrázek
 
-64,buttonBar\_primary
+64,InlineGallery,Galerie v obsahu
 
-65,buttonBar\_multiple
+65,InlineGalleryItem,Obrázek
 
-66,button
+66,IconAndText,Ikona a text
 
-67,news
+67,IconAndTextItem,Věc
 
-68,news\_aktualita
+68,festival\_baseInfo,Festival základní informace
 
-69,new\_blog
+69,festival\_textCommon,Rozšiřující text
 
-70,news\_gallery
+70,festival\_navigation,Rychlá navigace k další komponentě
 
-71,news\_gallery\_photos
+71,festival\_sportClubs,Sporty a kluby
 
-72,news\_gallery\_photo
+72,festival\_sportClubs\_item,Jeden sport/klub
 
-73,news\_person
+73,club,Jeden klub
 
-74,new\_video
+74,sport,Adresa sportu
 
-75,text\_four\_columns
+75,program,Program
 
-76,text\_four\_columns\_block
+76,photos\_persons,Fotky osobností
 
-77,text\_four\_columns\_block\_item
+77,photos\_persons\_item,Osobnost
 
-78,series
+78,map,Mapa
 
-79,columns
+79,carousel\_moving\_top,Kolotoč pod menu
 
-80,columns\_column
+80,carousel\_moving,Kolotoč v obsahu
 
-81,textPhoto
+81,carousel\_moving\_item,Jedna část
 
-82,app
+82,media,"Video, média"
 
-83,storeCarousel
+83,buttonBar,Novinky - Panel tlačítek
 
-84,image\_text
+84,buttonBar\_primary,Hlavní tlačítko
 
-85,contact
+85,buttonBar\_multiple,Sekundární tlačítka
 
-86,contact\_country
+86,button,Tlačítko
 
-87,contact\_country\_item
+87,news,Novinky
 
-88,news\_media
+88,new\_blog,Blog
 
-89,newsDetail
+89,news\_person,Osoba
 
-90,menuNews
+90,text\_four\_columns,Text ve čtyřech sloupcích
 
-91,TwoImages
+91,text\_four\_columns\_block,Jeden blok
 
-92,TwoImagesItem
+92,text\_four\_columns\_block\_item,Věc bloku
 
-93,InlineGallery
+93,image\_text,Obrázek s textem
 
-94,InlineGalleryItem
+94,news\_media,Novinky média
 
-95,IconAndText
 
-96,IconAndTextItem
+
+
 
