@@ -15,6 +15,7 @@
 ## Editor
 
 * [Editor obsahu](editor-obsahu.md)
+* [Úprava partnerů](uprava-partneru.md)
 * [Seznam atributů](seznam-atributu.md)
 * [Vytvoření článku](vytvoreni-clanku.md)
 * [Seznam komponent](seznam-komponent.md)
