@@ -2,43 +2,41 @@
 
 ## Datový typ atributů
 
-1,number
+1,number,Obyčejné číslo
 
-2,boolean
+2,boolean,Výběr ze dvou možností
 
-3,location
+3,color,Výběr z předdefinovaných barev
 
-4,color
+4,text,WYSIWYG editor pro úpravu obsahu
 
-5,text
+5,smalltext,Krátký text
 
-6,smalltext
+6,date,Datum
 
-7,date
+7,link,Odkaz mimo web Wannado
 
-8,link
+8,linkInternal,Odkaz v rámci webu Wannado
 
-9,linkInternal
+9,video,Odkaz na video podoprované jsou youtube a vimeo ve formátu: https://www.youtube.com/watch?v=GmtTDvNcXcU https://vimeo.com/233459603
 
-10,video
+10,image,Odkaz na obrázek nahraný do systému Wannado
 
-11,image
+11,imageTablet,Odkaz na obrázek nahraný do systému Wannado pro tablet
 
-12,imageTablet
+12,imageMobile,Odkaz na obrázek nahraný do systému Wannado pro telefon
 
-13,imageMobile
+13,file,Odkaz na jakýkoliv soubor nahraný do systému Wannado
 
-14,file
+14,imageResponsive,Struktura pro obrázek ve všech viewportech.
 
-15,imageResponsive
+15,imageResponsiveDetailed,Struktura pro obrázek ve všech viewportech s ještě jemější granularitou než imageResposive. Přes administraci se upravovat nedá.
 
-16,imageResponsiveDetailed
+16,imageSvg,SVG obrázky. Přes administraci se upravovat nedá.
 
-17,imageSvg
+17,icon,Výběr z dostupných ikon systému.
 
-18,icon
-
-19,component
+18,component,Libovolná složitější struktura.
 
 ## Jednotlivé atributy
 
@@ -421,6 +419,4 @@
 188,image\_text\_text,text,Text
 
 189,image\_text\_title,smalltext,Nadpis
-
-
 
