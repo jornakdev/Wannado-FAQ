@@ -44,393 +44,383 @@
 
 \#,kód,datový typ
 
-1,emptyPageFestival\_map\_image,image
+1,emptyPageFestival\_map\_image,image,Obrázek mapy festivalu v aplikaci.
 
-2,emptyPageFestival\_pravidla,file
+2,emptyPageFestival\_pravidla,file,Pdf s previdly souteze na festivalu
 
-3,emptyPageFestival\_sleva\_image,image
+3,emptyPageFestival\_sleva\_image,image,Obrázek slevy
 
-4,emptyPageFestival\_sleva\_text1,text
+4,emptyPageFestival\_sleva\_text1,text,Vrchní text slevy
 
-5,emptyPageFestival\_sleva\_text2,text
+5,emptyPageFestival\_sleva\_text2,text,Spodní text slevy
 
-6,emptyPageFestival\_sleva\_important,text
+6,emptyPageFestival\_sleva\_important,text,Zvýrazněný text slevy
 
-7,emptyPageFestival\_sleva\_buttonText,smalltext
+7,emptyPageFestival\_sleva\_buttonText,smalltext,Popis tlačítka k přechodu na slevu
 
-8,carousel\_complex\_heroes\_image,image
+8,carousel\_complex\_heroes\_image,image,Obrázek na pozadí
 
-9,carousel\_complex\_heroes\_image\_mobile,imageTablet
+9,carousel\_complex\_heroes\_image\_mobile,imageTablet,Obrázek na pozadí pro telefon
 
-10,carousel\_complex\_heroes\_hero\_text,smalltext
+10,carousel\_complex\_heroes\_hero\_text,smalltext,Rozšířený text jednoho z hrdinů viditelný v telefonu.
 
-11,carousel\_complex\_heroes\_hero\_link,linkInternal
+11,carousel\_complex\_heroes\_hero\_link,linkInternal,Odkaz na detail hrdiny
 
-12,carousel\_complex\_skate\_image,image
+12,carousel\_complex\_skate\_image,image,Obrázek na pozadí.
 
-13,carousel\_complex\_skate\_image\_mobile,imageTablet
+13,carousel\_complex\_football\_image,image,Obrázek na pozadí.
 
-14,carousel\_complex\_skate\_text,text
+14,carousel\_complex\_bike\_image,image,Obrázek na pozadí.
 
-15,carousel\_complex\_skate\_freetext,text
+15,carousel\_complex\_skate\_image\_mobile,imageTablet,Obrázek na pozadí pro telefon.
 
-16,carousel\_complex\_skate\_link,linkInternal
+16,carousel\_complex\_football\_image\_mobile,imageTablet,Obrázek na pozadí pro telefon.
 
-17,carousel\_complex\_football\_image,image
+17,carousel\_complex\_bike\_image\_mobile,imageTablet,Obrázek na pozadí pro telefon.
 
-18,carousel\_complex\_football\_image\_mobile,imageTablet
+18,carousel\_complex\_skate\_text,text,Text pod odkazem na video.
 
-19,carousel\_complex\_football\_link,linkInternal
+19,carousel\_complex\_skate\_freetext,text,Text pod odkazem na video.
 
-20,carousel\_complex\_football\_title,smalltext
+20,carousel\_complex\_skate\_link,linkInternal,Cíl odkazu při kliknutí na ikonu
 
-21,carousel\_complex\_football\_text,text
+21,carousel\_complex\_football\_link,linkInternal,Cíl odkazu při kliknutí na ikonu
 
-22,carousel\_complex\_football\_link\_text,smalltext
+22,carousel\_complex\_bike\_link,linkInternal,Cíl odkazu při kliknutí na ikonu
 
-23,carousel\_complex\_bike\_image,image
+23,carousel\_complex\_football\_title,smalltext,Nadpis v obrázku
 
-24,carousel\_complex\_bike\_image\_mobile,imageTablet
+24,carousel\_complex\_football\_text,text,Hlavní text v obrázku
 
-25,carousel\_complex\_bike\_text,text
+25,carousel\_complex\_football\_link\_text,smalltext,Cíl odkazu při kliknutí na hlavní text
 
-26,carousel\_complex\_bike\_link\_text,smalltext
+26,carousel\_complex\_bike\_link\_text,smalltext,Texk odkazu na detail.
 
-27,carousel\_complex\_bike\_link,linkInternal
+27,highlight\_title,smalltext,Nadpis
 
-28,highlight\_title,smalltext
+28,highlight\_text,text,Text
 
-29,highlight\_text,text
+29,highlight\_image,image,Obrázek na pozadí
 
-30,highlight\_image,image
+30,highlight\_link,linkInternal,Cíl odkazu
 
-31,highlight\_link,linkInternal
+31,bg\_text\_right\_image,image,Obrázek
 
-32,bg\_text\_right\_image,image
+32,bg\_text\_right\_imageMobile,imageTablet,Obrázek pro telefon
 
-33,bg\_text\_right\_imageMobile,imageTablet
+33,bg\_text\_right\_title,text,Hlavní nadpis
 
-34,bg\_text\_right\_title,text
+34,bg\_text\_right\_item\_title,smalltext,Nadpis podčásti
 
-35,bg\_text\_right\_item\_title,smalltext
+35,bg\_text\_right\_item\_text,text,Text podčásti
 
-36,bg\_text\_right\_item\_text,text
+36,partneri\_title,smalltext,Napdis sekce
 
-37,partneri\_title,smalltext
+37,partneri\_row\_group\_title,smalltext,Nadpis skupiny
 
-38,partneri\_row\_group\_title,smalltext
+38,partneri\_row\_group\_image\_image,image,Obrázek partnera
 
-39,partneri\_row\_group\_image\_image,image
+39,partneri\_row\_group\_image\_link,link,Stránka partnera
 
-40,partneri\_row\_group\_image\_link,link
+40,zastita\_title,smalltext,Nadpis záštity
 
-41,zastita\_title,smalltext
+41,osoba\_text,text,Text
 
-42,osoba\_text,text
+42,osoba\_title,smalltext,Nadpis
 
-43,osoba\_title,smalltext
+43,osoba\_link,image,Odkaz na detail
 
-44,osoba\_link,image
+44,menu\_logo\_image,icon,Hlavní logo v menu
 
-45,menu\_logo\_image,icon
+45,menu\_logo\_imageInverted,icon,Hlavní logo tmavého menu
 
-46,menu\_logo\_imageInverted,icon
+46,menu\_logo\_link,linkInternal,Odkaz při kliknutí na logo
 
-47,menu\_logo\_link,linkInternal
+47,menu\_control\_text,smalltext,Popisek
 
-48,menu\_control\_text,smalltext
+48,menu\_control\_mobile\_icon,imageSvg,Ikona v aplikaci
 
-49,menu\_control\_mobile\_icon,imageSvg
+49,menu\_control\_link,linkInternal,Cíl odkazu při kliknutí na tlačítko v menu
 
-50,menu\_control\_link,linkInternal
+50,menu\_control\_linkRelative,linkInternal,"Cíl odkazu v aplikaci, aplikace není dělena podle zemí ale podle festivalu."
 
-51,menu\_control\_linkRelative,linkInternal
+51,footer\_copyRight,smalltext,Copyright
 
-52,footer\_copyRight,smalltext
+52,footer\_extra\_image,image,Obrázek EU
 
-53,footer\_extra\_image,image
+53,footer\_extra\_text,text,Text pod obrázkem EU
 
-54,footer\_extra\_text,text
+54,footer\_socialImageHorizontal\_item\_link,link,Cíl odkazu
 
-55,footer\_socialImageHorizontal\_item\_link,link
+55,footer\_socialImageHorizontal\_item\_image,icon,Ikona odkazu
 
-56,footer\_socialImageHorizontal\_item\_image,icon
+56,footer\_select\_item\_link,linkInternal,Cíl odkazu
 
-57,footer\_select\_item\_link,linkInternal
+57,footer\_select\_item\_text,smalltext,Text odkazu
 
-58,footer\_select\_item\_text,smalltext
+58,footer\_select\_item\_image,imageSvg,Obrázek země
 
-59,footer\_select\_item\_image,imageSvg
+59,footer\_column\_link\_link,linkInternal,Cíl odkazu
 
-60,footer\_column\_link\_link,linkInternal
+60,footer\_column\_link\_text,smalltext,Text odkazu
 
-61,footer\_column\_link\_text,smalltext
+61,person\_photoSmall,image,Mala fotka osoby
 
-62,person\_photoSmall,image
+62,person\_photoMobile,imageTablet,Fotka osoby pro mobil
 
-63,person\_photoMobile,imageTablet
+63,person\_photoNews,image,Celá fotka
 
-64,person\_photoNews,image
+64,person\_quote,text,Citát osoby
 
-65,person\_quote,text
+65,person\_name,smalltext,Jméno osoby
 
-66,person\_text,text
+66,person\_smalldesc,smalltext,Krátký popis osoby
 
-67,person\_name,smalltext
+67,bg\_image\_text\_text,text,Text na pozadí
 
-68,person\_smalldesc,smalltext
+68,bg\_image\_text\_link,linkInternal,Cíl odkazu z textu
 
-69,festival\_baseInfo\_title,smalltext
+69,bg\_image\_text\_image,image,Obrázek
 
-70,festival\_baseInfo\_icon,image
+70,bg\_image\_text\_imageMobile,imageTablet,Obrázek pro telefon
 
-71,festival\_baseInfo\_date,date
+71,text\_left\_list\_text,text,Hlavní text
 
-72,festival\_baseInfo\_textPart,text
+72,text\_left\_list\_textExtended,text,Rozšířený text
 
-73,festival\_baseInfo\_link,link
+73,text\_left\_list\_title,smalltext,Nadpis
 
-74,festival\_baseInfo\_linkText,smalltext
+74,text\_left\_list\_link,linkInternal,Odkaz na seznam
 
-75,festival\_baseInfo\_buttonText,smalltext
+75,text\_left\_list\_linkText,smalltext,Text odkazu
 
-76,festival\_baseInfo\_buttonLink,linkInternal
+76,text\_left\_list\_country\_image,smalltext,Ikona země
 
-77,festival\_textCommon\_text,text
+77,text\_two\_columns\_title,smalltext,Nadpis
 
-78,festival\_navigation\_text,smalltext
+78,text\_two\_columns\_text,text,Text jednoho sloupce
 
-79,festival\_navigation\_scrollTo,smalltext
+79,text\_two\_columns\_buttonlink,linkInternal,Odkaz tlačítka
 
-80,festival\_sportClubs\_title,smalltext
+80,text\_two\_columns\_buttontext,smalltext,Text tlačítka
 
-81,festival\_sportClubs\_link,link
+81,text\_two\_columns\_linktext,smalltext,Text odkazu
 
-82,festival\_sportClubs\_linkText,smalltext
+82,text\_two\_columns\_linklink,image,Cíl odkazu
 
-83,festival\_sportClubs\_buttonText,smalltext
+83,text\_three\_columns\_bottomText,text,Spodní text
 
-84,festival\_sportClubs\_buttonTextBack,smalltext
+84,text\_three\_columns\_column\_title,smalltext,Nadpis sloupce
 
-85,festival\_sportClubs\_buttonLink,linkInternal
+85,text\_three\_columns\_column\_text,text,Text sloupce
 
-86,club\_title,smalltext
+86,text\_three\_columns\_column\_line\_text,text,Text
 
-87,club\_link,link
+87,text\_three\_columns\_column\_line\_link,image,Odkaz
 
-88,sport\_title,smalltext
+88,article\_title,smalltext,Nadpis
 
-89,program\_title,smalltext
+89,article\_title\_short,smalltext,Krátky nadpis
 
-90,program\_start,smalltext
+90,article\_date,date,Datum publikace
 
-91,program\_end,smalltext
+91,article\_imageMobile,imageTablet,Malý obrázek
 
-92,program\_text,text
+92,article\_perex\_text,text,Text
 
-93,program\_detail,file
+93,article\_text\_text,text,Text
 
-94,photos\_persons\_title,smalltext
+94,article\_imageFull\_image,image,Obrázek
 
-95,map\_address,smalltext
+95,article\_imageFull\_desc,smalltext,Popisek
 
-96,map\_detailLink,file
+96,article\_imageMiddle\_image,image,Obrázek
 
-97,map\_buttonText,smalltext
+97,article\_imageContent\_item\_image,image,Obrázek
 
-98,carousel\_moving\_backText,smalltext
+98,news\_gallery\_title,smalltext,Nadpis
 
-99,carousel\_moving\_backLink,linkInternal
+99,news\_gallery\_imageMobile,imageTablet,Úvodní obrázek
 
-100,carousel\_moving\_item\_halftext,text
+100,news\_gallery\_place,smalltext,Místo získání fotek
 
-101,carousel\_moving\_item\_halfimage,image
+101,news\_gallery\_date,date,Datum
 
-102,carousel\_moving\_item\_image,image
+102,news\_gallery\_photo\_image,image,Odkaz na fotku
 
-103,carousel\_moving\_item\_imageMobile,imageTablet
+103,columns\_title,smalltext,Nadpis
 
-104,carousel\_moving\_item\_imageForeground,image
+104,columns\_text,text,Text
 
-105,carousel\_moving\_item\_imageForegroundMobile,imageTablet
+105,columns\_column\_text,text,Text
 
-106,carousel\_moving\_item\_title,smalltext
+106,textPhoto\_title,smalltext,Nadpis
 
-107,carousel\_moving\_item\_text,text
+107,textPhoto\_text,text,Text
 
-108,carousel\_moving\_item\_bottomtitle,smalltext
+108,textPhoto\_image,imageResponsiveDetailed,Obrázek
 
-109,carousel\_moving\_item\_bottomtext,text
+109,app\_title,smalltext,Nadpis
 
-110,carousel\_moving\_item\_buttonlink,linkInternal
+110,app\_text,text,Text
 
-111,carousel\_moving\_item\_buttontext,smalltext
+111,app\_link,link,Odkaz
 
-112,carousel\_moving\_item\_linktext,smalltext
+112,app\_icon,image,Ikona
 
-113,carousel\_moving\_item\_linklink,linkInternal
+113,app\_bgimage,image,Obrázek na pozadí
 
-114,carousel\_moving\_item\_linktextMobile,smalltext
+114,contact\_country\_title,smalltext,Nadpis
 
-115,carousel\_moving\_item\_linklinkMobile,linkInternal
+115,contact\_country\_item\_text,text,Text
 
-116,media\_date,date
+116,TwoImagesItem\_image,image,Adresa obrázku
 
-117,media\_video,video
+117,TwoImagesItem\_link,linkInternal,Cíl odkazu
 
-118,media\_link,link
+118,TwoImagesItem\_icon,image,Ikona
 
-119,media\_linkDirect,link
+119,InlineGallery\_image,image,Adresa obrázku
 
-120,media\_imageMobile,imageTablet
+120,InlineGalleryItem\_image\_tb,image,Náhled obrázku
 
-121,media\_title,smalltext
+121,IconAndText\_icon,image,Ikona
 
-122,media\_title\_short,smalltext
+122,IconAndText\_text,text,Text
 
-123,media\_column\_text,text
+123,festival\_baseInfo\_title,smalltext,Nadpis
 
-124,button\_text,smalltext
+124,festival\_baseInfo\_icon,image,Icona místo nadpisu
 
-125,button\_link,linkInternal
+125,festival\_baseInfo\_date,date,Datum festivalu
 
-126,button\_link\_external,link
+126,festival\_baseInfo\_textPart,text,Popis festivalu
 
-127,button\_color,color
+127,festival\_baseInfo\_linkText,smalltext,Odkaz z textu
 
-128,text\_four\_columns\_title,smalltext
+128,festival\_baseInfo\_buttonText,smalltext,Text tlačítka
 
-129,text\_four\_columns\_block\_title,smalltext
+129,festival\_textCommon\_text,text,Informace festivalu
 
-130,text\_four\_columns\_block\_item\_text,text
+130,festival\_navigation\_text,smalltext,Popis tlačítka navigace
 
-131,text\_four\_columns\_block\_item\_isHighlighted,boolean
+131,festival\_navigation\_scrollTo,smalltext,Kód cílové komponenty
 
-132,text\_four\_columns\_block\_item\_isFaded,boolean
+132,festival\_sportClubs\_title,smalltext,Nadpis
 
-133,image\_text\_bg,imageResponsive
+133,festival\_sportClubs\_link,link,Odkaz na registraci
 
-134,image\_text\_foreground,image
+134,festival\_sportClubs\_linkText,smalltext,Text odkazu
 
-135,image\_text\_hasTopGradient,number
+135,festival\_sportClubs\_buttonText,smalltext,Text tlačítka
 
-136,image\_text\_text,text
+136,festival\_sportClubs\_buttonTextBack,smalltext,Text tlačítka zpět
 
-137,image\_text\_title,smalltext
+137,festival\_sportClubs\_buttonLink,linkInternal,Cíl odkazu tlačítka
 
-138,bg\_image\_text\_text,text
+138,club\_title,smalltext,Název klubu
 
-139,bg\_image\_text\_link,linkInternal
+139,club\_link,link,Adresa klubu
 
-140,bg\_image\_text\_image,image
+140,sport\_title,smalltext,Název sportu
 
-141,bg\_image\_text\_imageMobile,imageTablet
+141,program\_title,smalltext,Nadpis programu
 
-142,text\_left\_list\_text,text
+142,program\_start,smalltext,Začátek programu
 
-143,text\_left\_list\_textExtended,text
+143,program\_end,smalltext,Konec programu
 
-144,text\_left\_list\_title,smalltext
+144,program\_text,text,Text programu
 
-145,text\_left\_list\_link,linkInternal
+145,program\_detail,file,Detail programu
 
-146,text\_left\_list\_linkText,smalltext
+146,photos\_persons\_title,smalltext,Nadpis osobnosti
 
-147,text\_left\_list\_country\_image,smalltext
+147,map\_address,smalltext,Adresa mapy
 
-148,text\_two\_columns\_title,smalltext
+148,map\_detailLink,file,Detail mapy
 
-149,text\_two\_columns\_text,text
+149,map\_buttonText,smalltext,Text tlačítka
 
-150,text\_two\_columns\_buttonlink,linkInternal
+150,carousel\_moving\_backText,smalltext,Text v kolotoči
 
-151,text\_two\_columns\_buttontext,smalltext
+151,carousel\_moving\_backLink,linkInternal,Odkaz
 
-152,text\_two\_columns\_linktext,smalltext
+152,carousel\_moving\_item\_halftext,text,Text v kolotoči jenom na půlce \(tyčinky\)
 
-153,text\_two\_columns\_linklink,image
+153,carousel\_moving\_item\_halfimage,image,Obrázek jenom na půlce \(tyčinky\)
 
-154,text\_three\_columns\_bottomText,text
+154,carousel\_moving\_item\_image,image,Pozadí
 
-155,text\_three\_columns\_column\_title,smalltext
+155,carousel\_moving\_item\_imageMobile,imageTablet,Pozadí pro telefon
 
-156,text\_three\_columns\_column\_text,text
+156,carousel\_moving\_item\_imageForeground,image,Popředí
 
-157,text\_three\_columns\_column\_line\_text,text
+157,carousel\_moving\_item\_imageForegroundMobile,imageTablet,Popředí pro telefon
 
-158,text\_three\_columns\_column\_line\_link,image
+158,carousel\_moving\_item\_title,smalltext,Nadpis části
 
-159,article\_title,smalltext
+159,carousel\_moving\_item\_text,text,Text části
 
-160,article\_title\_short,smalltext
+160,carousel\_moving\_item\_bottomtitle,smalltext,Napdis pod obrázkem
 
-161,article\_date,date
+161,carousel\_moving\_item\_bottomtext,text,Text pod obrázkem
 
-162,article\_imageMobile,imageTablet
+162,carousel\_moving\_item\_buttonlink,linkInternal,Odkaz pod obrázkem
 
-163,article\_perex\_text,text
+163,carousel\_moving\_item\_buttontext,smalltext,Popis tlačítka pod obrázkem
 
-164,article\_text\_text,text
+164,carousel\_moving\_item\_linktext,smalltext,Text odkazu
 
-165,article\_imageFull\_image,image
+165,carousel\_moving\_item\_linklink,linkInternal,Cíl odkazu
 
-166,article\_imageFull\_desc,smalltext
+166,carousel\_moving\_item\_linktextMobile,smalltext,Text odkazu pro telefon
 
-167,article\_imageMiddle\_image,image
+167,carousel\_moving\_item\_linklinkMobile,linkInternal,Cíl odkazu pro telefon
 
-168,article\_imageContent\_item\_image,image
+168,media\_date,date,Datum publikace
 
-169,news\_gallery\_title,smalltext
+169,media\_video,video,Odkaz na video
 
-170,news\_gallery\_imageMobile,imageTablet
+170,media\_link,link,Odkaz na média
 
-171,news\_gallery\_place,smalltext
+171,media\_linkDirect,link,Odkaz externí
 
-172,news\_gallery\_date,date
+172,media\_imageMobile,imageTablet,Malý obrázek
 
-173,news\_gallery\_column\_text,text
+173,media\_title,smalltext,Nadpis
 
-174,news\_gallery\_photo\_image,image
+174,media\_title\_short,smalltext,Krátký nadpis
 
-175,columns\_title,smalltext
+175,media\_column\_text,text,Text nadpisu
 
-176,columns\_text,text
+176,button\_text,smalltext,Popisek
 
-177,columns\_column\_text,text
+177,button\_link,linkInternal,Cíl odkazu tlačítka
 
-178,textPhoto\_title,smalltext
+178,button\_link\_external,link,Externí cíl
 
-179,textPhoto\_text,text
+179,button\_color,color,Barva tlačítka
 
-180,textPhoto\_image,imageResponsiveDetailed
+180,text\_four\_columns\_title,smalltext,Nadpis
 
-181,app\_title,smalltext
+181,text\_four\_columns\_block\_title,smalltext,Nadpis bloku
 
-182,app\_text,text
+182,text\_four\_columns\_block\_item\_text,text,Text
 
-183,app\_link,link
+183,text\_four\_columns\_block\_item\_isHighlighted,boolean,Podkreslení
 
-184,app\_icon,image
+184,text\_four\_columns\_block\_item\_isFaded,boolean,Zašednutí
 
-185,app\_bgimage,image
+185,image\_text\_bg,imageResponsive,Velký obrázek
 
-186,contact\_country\_title,smalltext
+186,image\_text\_foreground,image,Obrázek na popředí
 
-187,contact\_country\_item\_text,text
+187,image\_text\_hasTopGradient,number,Vrchní gradient
 
-188,TwoImagesItem\_image,image
+188,image\_text\_text,text,Text
 
-189,TwoImagesItem\_link,linkInternal
-
-190,TwoImagesItem\_icon,image
-
-191,InlineGallery\_image,image
-
-192,InlineGalleryItem\_image\_tb,image
-
-193,IconAndText\_icon,image
-
-194,IconAndText\_text,text
+189,image\_text\_title,smalltext,Nadpis
 
 
 
