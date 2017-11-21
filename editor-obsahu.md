@@ -2,13 +2,13 @@
 
 ## Struktura
 
-Každá stránka je rozdělene do komponent, které se dají různě kombinovat. Jedna komponenta vžydcky reprezentuje určitou část webu.
+Každá stránka je rozdělena do komponent, které se dají různě kombinovat. Jedna komponenta vždy reprezentuje určitou část webu.
 
 ![](/images/component_nesting.png)
 
 ### Komponenta
 
-A. - unikátn kód komponenty používaný v odkazech a pro orientaci mezi částmi obsahu
+A. - unikátní kód komponenty používaný v odkazech a pro orientaci mezi částmi obsahu
 
 B. - typ komponenty
 
@@ -26,7 +26,7 @@ Komponenty mají atributy, které upravují její chování a vzhled. [Přejít 
 
 ### Přidávání nových komponent
 
-Komponetu přidáte zmáčnuktím tlačítka Vytvořit a vybráním [komponenty kterou chcete přidat](/seznam-komponent.md "Přejít na seznam komponent"). Komponentu přidávate jako potomka té kterou máte momentálně aktivní.
+Komponetu přidáte zmáčknutím tlačítka Vytvořit a vybráním [komponenty, kterou chcete přidat](/seznam-komponent.md "Přejít na seznam komponent"). Komponentu přidávate jako potomka té, kterou máte momentálně aktivní.
 
 #### Akce komponenty Přidat/Vytvořit:
 
@@ -40,7 +40,7 @@ Komponetu přidáte zmáčnuktím tlačítka Vytvořit a vybráním [komponenty 
 
 ### Pořadí komponent
 
-Můžete libovolně měnit pořadí potomků komponenty. Někteří potomci jsou řazení nehledě na pořadí např. novinky jsou řazeny chronologicky.
+Můžete libovolně měnit pořadí potomků komponenty. Někteří potomci jsou řazení nehledě na pořadí, např. novinky jsou řazeny chronologicky.
 
 #### Pořadí upravíte následovně:
 
@@ -60,11 +60,11 @@ Můžete libovolně měnit pořadí potomků komponenty. Někteří potomci jsou
 
 ### Připojování a odpojování komponent
 
-Komponenta může být vidět na více místech web/aplikace. Komponenty můžete libovolně kombinovat tlačítkami odpojit a připojit. Některé kombinace nemusí být plně funkční, kontaktujte v tom případě administrátora.
+Komponenta může být vidět na více místech web/aplikace. Komponenty můžete libovolně kombinovat tlačítky odpojit a připojit. Některé kombinace nemusí být plně funkční, v tomto případě kontaktujte administrátora.
 
 ### Mazání komponenty
 
-Smazání komponenty dojde k jejímu zrušení na **všech **stránkách, kde se vyskatovala.
+Smazáním komponenty dojde k jejímu zrušení na **všech **stránkách, kde se vyskytovala.
 
 ## Náhled na rozpracovanou práci
 
@@ -74,7 +74,7 @@ Stránku si můžete kdykoliv prohlédnout tlačítkem Náhled
 
 ## Publikace změn
 
-Editace stránky upravuje změny přímo na webu, všechny změny jsou publikovány přes noc, nehledě na to zda byli publikovány nebo ne. Při zmáčnutím tlačítka publikovat změny budou uživatelem viditelné hned.
+Editace stránky upravuje změny přímo na webu, všechny změny jsou publikovány přes noc nehledě na to, zda byly publikovány nebo ne. Při zmáčnutí tlačítka publikovat změny budou uživatelem viditelné hned.
 
-Průvodce novou stránkou funguje odlyšně, změny nejsou vidět **nikdy** dokud nepřejde do třetího kroku a můžete se k nim libovolně vrace skrze [volbu menu rozpracované stránky](/rozpracovane.md).
+Průvodce novou stránkou funguje odlišně. Změny nejsou vidět **nikdy,** dokud nepřejdete do třetího kroku a můžete se k nim libovolně vracet skrze [volbu menu rozpracované stránky](/rozpracovane.md).
 

@@ -9,7 +9,5 @@
 
 ![](/images/docImages/hlPopis.png)
 
-Klikněte na publikovat
-
-
+Klikněte na Publikovat
 
