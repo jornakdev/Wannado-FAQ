@@ -6,7 +6,7 @@ Po přihlášení do administrace se Vám na každé stránce objeví vpravo dol
 
 Po kliknutí je možné stránku upravovat. Když je editace aktivní, stránka se chová trochu nestandardně. Zobrazí se editovatelná pole, takže stránka nemusí být 100% shodná s výslednou stránkou.
 
-V rychlé editace není možné:
+V rychlé editace není možné: 
 
 * Měnit pořadí komponent.
 * Upravovat některé složitější struktury. např. sporty a kluby
@@ -25,15 +25,15 @@ Pravým tlačítkem myši se Vám otevře nabídka úpravy odkazu. Psaním do te
 
 ## Přidání a odebírání komponent
 
-Pohybem myši přes komponentu se zobrazí kontextové menu, které umožnuje měnit strukturu stránky. Červeným tlačítkem komponentu odeberete. 
+Pohybem myši přes komponentu se zobrazí kontextové menu, které umožnuje měnit strukturu stránky. Červeným tlačítkem komponentu odeberete.
 
 ![](/images/quickedit/comoponentEdit.png)
 
-Modrým plus přidáte další podřízenou komponentu, výběrem ze seznamu komponent. 
+Modrým plus přidáte další podřízenou komponentu, výběrem ze seznamu komponent.
 
 ![](/images/selectComponent.png)
 
-Na přidávání komponent se vztahují stejná pravidla jako při editace v administraci. 
+Na přidávání komponent se vztahují stejná pravidla jako při editace v administraci.
 
 ## Upravení obrázků
 
