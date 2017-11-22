@@ -12,6 +12,7 @@
 * [Výsledky soutěže](vysledky-souteze.md)
 * [Hodnocení](hodnoceni.md)
 * [Hlášení chyb a zadávání požadavků na úpravy nebo zlepšení](hlaseni-chyb-a-pozadavku-na-upravy-nebo-zlepseni.md)
+* [Tipy a Triky](tipy-a-triky.md)
 
 ## Editor
 
