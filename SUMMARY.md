@@ -13,6 +13,7 @@
 * [Hodnocení](hodnoceni.md)
 * [Hlášení chyb a zadávání požadavků na úpravy nebo zlepšení](hlaseni-chyb-a-pozadavku-na-upravy-nebo-zlepseni.md)
 * [Tipy a Triky](tipy-a-triky.md)
+* [Lokalizace aplikace](lokalizace-aplikace.md)
 
 ## Editor
 
