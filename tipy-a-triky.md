@@ -4,11 +4,11 @@ K řešení některých problémů je potřeba použít nestandardní postupy, t
 
 ## Kolotoč odkaz na video
 
-Pokud někam potřebujete přidat ikonu přehrávání s odkazem na video, jako je to v kolotočit.
+Pokud někam potřebujete přidat ikonu přehrávání s odkazem na video, jako je to v kolotoči, následující kód přidejte na toto místo:
 
 &lt;a href="/cz/news/name/news\_video\_promo"&gt;&lt;span class="playIcon desktopOnly"&gt; &lt;/span&gt;&lt;/a&gt;
 
-Můžete přidat do libovolného textu, parametr href upravte, aby dokazoval na vaši stránku.
+Můžete přidat do libovolného textu, parametr HREF upravte, aby odkazoval na vaši stránku.
 
 ## Hlavička tabulky
 
