@@ -22,7 +22,7 @@ Přejděte do editace kódu.
 
 ```
 <th style="width: 14.2187%;">
-				<div>18:00-19:00</div>
+                <div>18:00-19:00</div>
 </th>
 ```
 
